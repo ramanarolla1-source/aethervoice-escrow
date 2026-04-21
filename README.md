@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="AetherVoice – Confidential AI Escrow" src="https://github.com/user-attachments/assets/d7b58d98-2296-41e3-a48a-3821882b3981" />
+
+
+
 # AetherVoice – Confidential AI Escrow
 
 ## Tagline
