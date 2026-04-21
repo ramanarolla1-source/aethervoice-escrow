@@ -73,7 +73,9 @@ Frontend → Smart Contract → Nox (Confidential Compute) → AI Engine → Res
 - Frontend: React
 
 ---
+## 🔥 Key Highlight
 
+AetherVoice ensures that funds are released not based on agreement—but on AI-verified truth using voice-based behavioral analysis and confidential computation.
 ## Demo
 
 See demo video in `/demo/demo-video.mp4`
