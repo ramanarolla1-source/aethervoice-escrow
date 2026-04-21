@@ -118,3 +118,5 @@ contract AetherVoiceEscrow {
         return escrows[_escrowId];
     }
 }
+address public verifier;
+require(msg.sender == verifier);
