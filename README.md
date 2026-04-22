@@ -6,7 +6,7 @@
 
 ## Tagline
 Verify Before You Pay — AI-Powered Confidential Escrow
-
+Deno Video: https://youtu.be/mNDVChRjTww
 ---
 
 ## Problem
